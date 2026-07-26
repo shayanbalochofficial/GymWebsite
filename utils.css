@@ -3,7 +3,7 @@
 }
 
 .bg-red {
-  background-color: #ff0000;
+  background-color: red;
 }
 
 .mx-auto {
@@ -19,25 +19,30 @@
   align-items: center;
 }
 
-.justify-center {
-  justify-content: center;
-}
-
 .justify-between {
   justify-content: space-between;
 }
 
-.font-bold {
-  font-weight: bold;
+.justify-center {
+  justify-content: center;
 }
 
 .flex-col {
   flex-direction: column;
 }
 
+.font-bold {
+  font-weight: bolder;
+}
+
 .my-1 {
   margin-top: 13px;
   margin-bottom: 13px;
+}
+
+.my-2 {
+  margin-top: 26px;
+  margin-bottom: 26px;
 }
 
 .px-2 {
@@ -51,24 +56,17 @@
 
 .btn {
   padding: 7px 12px;
-  border: 2px solid blue;
-  color: #fff;
+  border: 2px solid white;
   border-radius: 6px;
-  -webkit-border-radius: 6px;
-  -moz-border-radius: 6px;
-  -ms-border-radius: 6px;
-  -o-border-radius: 6px;
+  cursor: pointer;
+  color: white;
   background-color: #052f6e;
-    cursor: pointer;
 }
 
-.overflow-x-hidden{
-    overflow-x: hidden;
+.overflow-x-hidden {
+  overflow-x: hidden;
 }
 
-.text-center{
-    text-align: center;
+.text-center {
+  text-align: center;
 }
-
-
-
