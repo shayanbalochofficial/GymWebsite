@@ -50,8 +50,7 @@
 }
 
 .section2 {
-  padding-left: 63px;
-  padding-right: 63px;
+  padding: 73px;
 }
 
 .section2 p {
@@ -112,4 +111,13 @@
 }
 .section3 table td {
   border-bottom: 2px solid black;
+}
+
+.section3 {
+  padding: 73px;
+}
+
+footer {
+  padding: 23px;
+  text-align: center;
 }
