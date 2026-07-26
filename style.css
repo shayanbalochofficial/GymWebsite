@@ -20,16 +20,32 @@
   margin: 0 12px;
 }
 
-.topleft{
-    width: 50%;
-    height: 50vh;
+.topleft {
+  width: 50%;
 }
 
-.topright{
-    width: 50%;
-    height: 50vh;
+.topright {
+  width: 50%;
 }
 
-.section1{
-    height: 50vh;
+.section1 {
+  max-height: 100vh;
+  color: #05476e;
+}
+
+.section1 h1 {
+  color: #052f6e;
+  font-size: 2rem;
+}
+
+.logo{
+    font-size: 1.3rem;
+}
+
+.dumbellimg {
+  width: 289px;
+}
+
+.topright .gymimg {
+  width: 466px;
 }
