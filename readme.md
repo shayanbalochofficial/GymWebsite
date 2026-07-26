@@ -14,7 +14,7 @@ Built with:
 
 
 ---
-#Pages
+# Pages
 * One Simple & Clean Landing page
 
 ---
@@ -31,5 +31,16 @@ git clone https://github.com/shayanbalochofficial/GymWebsite/
 
 # Author
 Shayan
+
+# Tutorial Assistance
+The initial website was built by a youtube tutorial. After completing the tutorial, I made several modifications and personalized the website rather than copying it exactly.
+[https://www.youtube.com/@CodeWithHarry]
+
+# Ai Assistance
+AI was only used to improve the responsiveness of Section 1 
+Ai used at the end of the project, to help make the overall website more responsive. 
+No AI was used for the core structure or functionality of the website, keeping in mind the 30% Ai usage policy.
+
+#
 
 # Project Made for HackClub Horizons
