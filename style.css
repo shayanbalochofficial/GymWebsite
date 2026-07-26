@@ -46,5 +46,29 @@
 }
 
 .topright .gymimg {
-  width: 466px;
+  width: 406px;
+}
+
+.section2 {
+  padding-left: 63px;
+  padding-right: 63px;
+}
+
+.section2 h1 {
+  font-size: 2rem;
+}
+
+.box {
+  margin: 12px 22px;
+  min-width: 20vw;
+  border: 2px solid #23549e;
+  text-align: center;
+}
+
+.box ul {
+  list-style-type: none;
+}
+
+.box ul li {
+  margin: 12px 2px;
 }
