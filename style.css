@@ -54,15 +54,35 @@
   padding-right: 63px;
 }
 
+.section2 p {
+  padding: 0 8vw;
+  text-align: center;
+}
+
 .section2 h1 {
-  font-size: 2rem;
+  font-size: 2.5rem;
 }
 
 .box {
   margin: 12px 22px;
+  padding: 8px 0;
   min-width: 20vw;
   border: 2px solid #23549e;
   text-align: center;
+  border-radius: 8px;
+  -webkit-border-radius: 8px;
+  -moz-border-radius: 8px;
+  -ms-border-radius: 8px;
+  -o-border-radius: 8px;
+}
+
+.highlighted {
+  font-weight: bolder;
+}
+
+.box h2 {
+  font-size: 2rem;
+  padding: 15px 0;
 }
 
 .box ul {
