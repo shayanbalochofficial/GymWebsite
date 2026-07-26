@@ -26,3 +26,7 @@
 .justify-between{
     justify-content: space-between
 }
+
+.font-bold{
+    font-weight: bold;
+}
