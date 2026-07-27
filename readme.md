@@ -3,7 +3,7 @@
 ![Screenshot](/Assets/SS.jpeg)
 
 # Description
-A simple Gym Website, with 3 sections. Each section provided me to learn something new. The main reason was to learn Html tables and successfully did after completing the website. Section 1 had a lot of problems with making it responsive, but tackled it out. A simple landing page.
+A simple Gym Website, with 4 sections. Each section provided me to learn something new. The main reason was to learn Html tables and successfully did after completing the website. Section 1 had a lot of problems with making it responsive, but tackled it out. A simple landing page.
 
 
 Built with:
@@ -34,7 +34,7 @@ Shayan
 
 # Tutorial Assistance
 The initial website was built by a youtube tutorial. After completing the tutorial, I made several modifications and personalized the website rather than copying it exactly.
-[https://www.youtube.com/@CodeWithHarry]
+[Tutorial](https://youtu.be/hZjLA45S8G8?si=6IZ5GhC9TcLNC4gt)]
 
 # Ai Assistance
 AI was only used to improve the responsiveness of Section 1 
